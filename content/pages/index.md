@@ -1,7 +1,7 @@
 Title: #NaiveNeuron
 Date: 10.22.2016 19:00
-Category: Home
 save_as: index.html
+Status: hidden
 
 Hi we are #NaiveNeuron and we are research group formed at Faculty of
 Matemathics, Physics and Informatics University Komenius Bratislava, Slovakia.
